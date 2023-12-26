@@ -1,9 +1,11 @@
 In this exercise we will practice using GIT and further your Javascript skills.  This will allow you to practice the following:
 
-- Cloning a repository
+- Forking a repository
 - Using HTML
 - Styling CSS
-- Using Javascript to create a simple game 
+- Using Javascript to create a simple game
+- Publish your page
+- Link your page to Team webpage
 - Submit a pull request (on GitHub)
 - Get pull request merged
 
