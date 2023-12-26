@@ -1,7 +1,7 @@
 # Introduction
 ## Using Javascript to build game?
 ### Tic Tac Toe: 
-Expanding our previous group website each one of you will create a Tic Tac Toe game using Javascript. You will create a link to your new page from your card. 
+We will add to our previous group website. Each one of you will create a Tic Tac Toe game using Javascript. You will create a link to your new page from your "card". 
 
 Your starting point will be this repository. 
 
