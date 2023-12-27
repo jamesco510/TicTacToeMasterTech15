@@ -1,9 +1,9 @@
 # Tic Tac Toe
-You will be referencing this [Tic Tac Toe](https://www.codebrainer.com/blog/tic-tac-toe-javascript-game) exercise. It is well guided and will provide you with the building blocks for a basic Tic Tac Toe game. There are some important changes to the instructions that they provide. Since each person will be working on their own html page, CSS stylesheet, and javascript we need to make sure you have your own. Please follow the steps below before getting started.    
+You will be referencing this [Tic Tac Toe](https://www.codebrainer.com/blog/tic-tac-toe-javascript-game) exercise. It is well guided exercise that will provide you with the building blocks for a basic Tic Tac Toe game. There are some important changes to the instructions that they provide. Since each person will be working on their own html page, CSS stylesheet, and javascript we need to make sure you have your own. Please follow the steps below before getting started.    
 
  
-### 1. Clone the repository
-First step will be to clone this repository. You can refer to previous [exercise](https://github.com/TechCohort14/TA100-GitFlowWebsite/blob/main/4_CloneWebsite.md) to figure out how to clone the repository. 
+### 1. Fork the repository
+First step will be to fork this repository. Unlike our previous exercise, you will be working on your own code for the game and will not be collaborating with anyone else. You can refer to previous [exercise](https://github.com/TechCohort14/TA100-GitFlowWebsite/blob/main/4_CloneWebsite.md) to figure out how to clone the repository. 
 
 Once you clone the repository make sure to create a branch. 
 
