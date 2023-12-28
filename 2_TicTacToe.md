@@ -3,12 +3,12 @@ You will be referencing this [Tic Tac Toe](https://www.codebrainer.com/blog/tic-
 
  
 ### 1. Fork the repository
-First step will be to fork this repository. Unlike our previous exercise, you will be working on your own code for the game and will not be collaborating with anyone else. You can refer to previous [exercise](https://github.com/TechCohort14/TA100-GitFlowWebsite/blob/main/4_CloneWebsite.md) to figure out how to clone the repository. 
+First step will be to fork this repository. Unlike our previous exercise, you will be working on your own code for the game and will not be collaborating with anyone else. You can refer to previous [exercise](https://github.com/TechCohort14/TA100-GitFlowWebsite/blob/main/4_CloneWebsite.md) to figure out how to fork the repository. A fork will allow you to work independently on the code and not have to push it to the original repository.
 
-Once you clone the repository make sure to create a branch. 
+Once you fork the repository make sure to create a branch. 
 
 ### 2. HTML, TTTstyles.css, ans Script.js Page:
-One you have cloned the repository and created working branch open VS Code. Unlike the home page that everyone worked on, in this exercise will have three files to work on. The nameTicTacToe.html will be your html. You will **COPY** this file (while in VS Code use CTRL + C, then CTRL + V) and rename it by using your first and last name initial. So "Jane Doe" will copy the nameTicTacToe.html file and rename it **jdTicTacToe.html**. 
+One you have cloned the repository and created working branch open VS Code. Unlike the home page that everyone worked on, in this exercise will have three files to work on. The nameTicTacToe.html will be your html. You will rename this file (while in VS Code use CTRL + C, then CTRL + V) and rename it by using your first and last name initial. So "Jane Doe" will copy the nameTicTacToe.html file and rename it **jdTicTacToe.html**. 
 
 Do the same for the **TTTstyles.css** and **script.js**. Make sure to copy and rename. So "Jane Doe" will have three files:
 
