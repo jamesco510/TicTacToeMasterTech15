@@ -3,11 +3,11 @@ You will be referencing this [Tic Tac Toe](https://www.codebrainer.com/blog/tic-
 
  
 ### 1. Fork the repository
-First step will be to fork this repository. While cloning and forking create copies of a repository, the level of control each one provides is different. Cloning will remain synchronized with the original repository, while forking will not. When you fork a repository it will create a copy in your account. Once the repository is in your account, then you will clone it to your local computer.   
+First step will be to fork this repository. While cloning and forking create copies of a repository, the level of control each one provides is different. Cloning will remain synchronized with the original repository, while forking will not. When you fork a repository it will create a copy in your account. Once the repository is in your account, then you will clone it to your local computer. You can submit a pull request later on if you wish to contribute to the original repository, but it is not necessary.     
 
-Fork is not a Git operation — which means there is not a terminal command you can type. This is a feature that is exclusive to remote hosting platforms, such as GitHub.
+Fork is not a Git operation — which means there is not a terminal command you can type to execute it. This is a feature that is exclusive to remote hosting platforms, such as GitHub.
 
-Navigate 
+Navigate to the reposotiry 
 
 ### 2. HTML, TTTstyles.css, ans Script.js Page:
 One you have cloned the repository and created working branch open VS Code. Unlike the home page that everyone worked on, in this exercise will have three files to work on. The nameTicTacToe.html will be your html. You will rename this file (while in VS Code use CTRL + C, then CTRL + V) and rename it by using your first and last name initial. So "Jane Doe" will copy the nameTicTacToe.html file and rename it **jdTicTacToe.html**. 
