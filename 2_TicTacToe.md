@@ -8,7 +8,7 @@ First step will be to fork this repository. While cloning and forking create cop
 Fork is not a Git operation — which means there is not a terminal command you can type to execute it. This is a feature that is exclusive to remote hosting platforms, such as GitHub.
 
 Navigate to the repository and click on the fork button toward the top: 
-<img src="images/Forkbutton.JPG" width="60%" length="60%"> 
+<img src="images/Forkbutton.jpg" width="60%" length="60%"> 
 
 You will choose your own account as the owner and add yout initials at the end of TicTacToe (i.e. TicTacToeIE). Enter a description of the repository for future reference. 
 <img src="images/CretaAfork.JPG" width="40%" length="40%"> 
