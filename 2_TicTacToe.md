@@ -7,7 +7,9 @@ First step will be to fork this repository. While cloning and forking create cop
 
 Fork is not a Git operation — which means there is not a terminal command you can type to execute it. This is a feature that is exclusive to remote hosting platforms, such as GitHub.
 
-Navigate to the reposotiry 
+Navigate to the repository and clik on the fork button toward the top: 
+
+ <img src="images/gitCloneCode.jpg" width="40%" length="40%"> 
 
 ### 2. HTML, TTTstyles.css, ans Script.js Page:
 One you have cloned the repository and created working branch open VS Code. Unlike the home page that everyone worked on, in this exercise will have three files to work on. The nameTicTacToe.html will be your html. You will rename this file (while in VS Code use CTRL + C, then CTRL + V) and rename it by using your first and last name initial. So "Jane Doe" will copy the nameTicTacToe.html file and rename it **jdTicTacToe.html**. 
