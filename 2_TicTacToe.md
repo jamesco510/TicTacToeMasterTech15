@@ -7,12 +7,14 @@ First step will be to fork this repository. While cloning and forking create cop
 
 Fork is not a Git operation — which means there is not a terminal command you can type to execute it. This is a feature that is exclusive to remote hosting platforms, such as GitHub.
 
-Navigate to the repository and click on the fork button toward the top: 
+Navigate to the repository and click on the fork button toward the top. Select "+Create a new fork" from the drop down box: 
 <img src="images/Forkbutton.jpg" width="60%" length="60%"> 
 
-You will choose your own account as the owner and add yout initials at the end of TicTacToe (i.e. TicTacToeIE). Enter a description of the repository for future reference. 
+You will choose your own account as the Owner and for Repository name add your initials at the end of TicTacToe (i.e. TicTacToeIE). Enter a description of the repository for future reference. 
 <img src="images/CretaAfork.JPG" width="40%" length="40%"> 
+ Navigate to your account and then your repositories. You will see the the repository listed. You can now clone the repository to your local computer so you can work on it.  
 
+ 
 ### 2. HTML, TTTstyles.css, ans Script.js Page:
 One you have cloned the repository and created working branch open VS Code. Unlike the home page that everyone worked on, in this exercise will have three files to work on. The nameTicTacToe.html will be your html. You will rename this file (while in VS Code use CTRL + C, then CTRL + V) and rename it by using your first and last name initial. So "Jane Doe" will copy the nameTicTacToe.html file and rename it **jdTicTacToe.html**. 
 
