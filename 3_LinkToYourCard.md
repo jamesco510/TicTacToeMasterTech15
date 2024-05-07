@@ -5,7 +5,7 @@ The three files you worked on (e.g. jdTicTacToe.html, jdstyles.css, jdscript.js)
 
 1. Before you get started make sure to create a new branch in your destination repository (team website: GitTechWebsite15).   
 2. Branch name will be yourinitialsCardLink (e.g. Jane Doe's = **jdCardLink**)
-3. Check out the new branch
+3. Checkout the new branch
 4. Copy over the files you worked on (e.g. jdTicTacToe.html, jdstyles.css, jdscript.js) from source repository (TicTacToeMasterTech15) to destination (GitTechWebsite15)
 5. On the index.html page inside GitTechWebsite15 modify Contact button on your card to be a link to your html page:
 
