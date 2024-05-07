@@ -24,7 +24,7 @@ Do the same for the **TTTstyles.css** and **script.js**. Make sure to copy and r
 
 ```js
 jdTicTacToe.html
-jdstyle.css
+jdstyles.css
 jdscript.js
 ```
 In **your** html file you will have to change the link to the css and javascript file. 
