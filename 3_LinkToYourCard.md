@@ -1,5 +1,5 @@
 # Link to your Card
-If you are here you must have completed the exercise. You can push your Tic Tc Toe branch up and submit a pull request.
+If you are here you must have completed the exercise. You can push your Tic Tac Toe branch up and submit a pull request.
 
 Check out the main branch, update your local repository, and create a NEW branch (branch name will be yourinitialsCardLink: Jane Doe's = **jdCardLink**) . Now you will be working on creating a link to your page. Do not use the same branch you used for the Tic Tac Toe exercise. This is a new feature. 
 
